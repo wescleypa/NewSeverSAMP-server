@@ -1,0 +1,23 @@
+criarveiculo
+ls
+lv
+setaradmin
+reiniciar
+pos
+sf
+autoreparo
+
+
+
+
+
+
+
+
+
+
+
+
+comandos vip
+reparar
+desvirar

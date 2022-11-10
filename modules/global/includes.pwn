@@ -1,0 +1,1 @@
+#include "../modules/global/geral.pwn"

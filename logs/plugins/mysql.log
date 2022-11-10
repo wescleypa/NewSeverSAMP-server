@@ -1,0 +1,448 @@
+[17:44:20] [ERROR] mysql_connect: handle error: no database specified
+[17:46:22] [WARNING] mysql_connect: no password specified
+[17:47:08] [WARNING] mysql_connect: no password specified
+[17:49:03] [WARNING] mysql_connect: no password specified
+[17:49:53] [WARNING] mysql_connect: no password specified
+[17:51:39] [WARNING] mysql_connect: no password specified
+[18:11:02] [WARNING] mysql_connect: no password specified
+[18:11:40] [ERROR] mysql_query: invalid connection handle '0'
+[18:11:40] [ERROR] cache_get_row_count: no active cache
+[18:13:25] [WARNING] mysql_connect: no password specified
+[18:13:46] [ERROR] mysql_query: invalid connection handle '0'
+[18:13:46] [ERROR] cache_get_row_count: no active cache
+[18:15:58] [WARNING] mysql_connect: no password specified
+[18:16:21] [ERROR] error #1054 while executing query "SELECT `username`, `password` FROM `contas` WHERE username=``": Unknown column '' in 'where clause'
+[18:16:21] [ERROR] cache_get_row_count: no active cache
+[18:19:13] [WARNING] mysql_connect: no password specified
+[18:21:18] [WARNING] mysql_connect: no password specified
+[18:22:54] [WARNING] mysql_connect: no password specified
+[18:23:15] [ERROR] error #1054 while executing query "SELECT `username`, `password` FROM `contas` WHERE username=`Small`": Unknown column 'Small' in 'where clause'
+[18:23:15] [ERROR] cache_get_row_count: no active cache
+[18:24:25] [WARNING] mysql_connect: no password specified
+[18:24:46] [ERROR] error #1054 while executing query "SELECT `username`, `password` FROM `contas` WHERE username=`Small`": Unknown column 'Small' in 'where clause'
+[18:24:46] [ERROR] cache_get_row_count: no active cache
+[18:25:22] [WARNING] mysql_connect: no password specified
+[18:25:43] [ERROR] error #1054 while executing query "SELECT `username`, `password` FROM `contas` WHERE username=`'Small'`": Unknown column ''Small'' in 'where clause'
+[18:25:43] [ERROR] cache_get_row_count: no active cache
+[18:26:41] [WARNING] mysql_connect: no password specified
+[18:27:26] [WARNING] mysql_connect: no password specified
+[18:38:53] [WARNING] mysql_connect: no password specified
+[18:42:39] [WARNING] mysql_connect: no password specified
+[19:09:17] [WARNING] mysql_connect: no password specified
+[19:15:42] [WARNING] mysql_connect: no password specified
+[19:24:36] [WARNING] mysql_connect: no password specified
+[19:26:40] [WARNING] mysql_connect: no password specified
+[19:35:58] [WARNING] mysql_connect: no password specified
+[19:40:35] [WARNING] mysql_connect: no password specified
+[21:18:28] [WARNING] mysql_connect: no password specified
+[21:19:25] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[21:20:17] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[21:22:25] [ERROR] cache_get_value_name: field 'money' not found
+[21:23:13] [ERROR] cache_get_value_name: field 'money' not found
+[21:25:05] [WARNING] mysql_connect: no password specified
+[21:25:34] [ERROR] cache_get_value_name: field 'money' not found
+[21:27:24] [WARNING] mysql_connect: no password specified
+[21:27:50] [ERROR] cache_get_value_name: field 'money' not found
+[21:28:31] [WARNING] mysql_connect: no password specified
+[21:28:57] [ERROR] cache_get_value_name: field 'money' not found
+[21:30:11] [WARNING] mysql_connect: no password specified
+[21:32:45] [WARNING] mysql_connect: no password specified
+[21:41:07] [WARNING] mysql_connect: no password specified
+[21:42:30] [WARNING] mysql_connect: no password specified
+[22:00:14] [WARNING] mysql_connect: no password specified
+[22:08:49] [WARNING] mysql_connect: no password specified
+[22:10:04] [ERROR] error #1064 while executing query "UPDATE `contas` SET`money`='6000', `level`='65', `dX`='&ç": You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''&ç' at line 1
+[22:12:33] [ERROR] error #1064 while executing query "UPDATE `contas` SET`money`='6000', `level`='65', `dX`='": You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+[22:14:11] [WARNING] mysql_connect: no password specified
+[22:14:50] [ERROR] error #1064 while executing query "UPDATE `contas` SET`money`='6000', `level`='65', `dX`='&ù": You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''&ù' at line 1
+[22:22:14] [WARNING] mysql_connect: no password specified
+[22:22:59] [ERROR] error #1064 while executing query "UPDATE `contas` SET`money`='6000', `level`='65', `dX`='163.347625', `dY`='-79.493820', `dZ`='1.578125', `dA`='21.306886": You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''21.306886' at line 1
+[22:26:20] [ERROR] error #1064 while executing query "UPDATE `contas` SET`money`='6000', `level`='65', `dX`='133.105163', `dY`='-70.227249', `dZ`='1.578125', `dA`='194.89514": You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''194.89514' at line 1
+[22:31:12] [WARNING] mysql_connect: no password specified
+[22:31:56] [ERROR] error #1064 while executing query "UPDATE `contas` SET`money`='0', `level`='0', `dX`='132.000000', `dY`='-67.291183', `dZ`='1.578125', `dA`='0.000000', `d": You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`d' at line 1
+[22:33:07] [WARNING] mysql_connect: no password specified
+[22:33:42] [ERROR] error #1064 while executing query "UPDATE `contas` SET`money`='0', `level`='0', `dI`='1124260700'WHERE `username`='Ø": You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Ø' at line 1
+[22:35:01] [WARNING] mysql_connect: no password specified
+[22:37:06] [WARNING] mysql_connect: no password specified
+[22:40:02] [WARNING] mysql_connect: no password specified
+[22:42:29] [WARNING] mysql_connect: no password specified
+[22:44:58] [WARNING] mysql_connect: no password specified
+[22:45:46] [ERROR] error #1064 while executing query "UPDATE `contas` SET `money`='5', `level`='5',`dI`='0', `dX`='183.532012', `dY`='-74.648895', `dZ`='1.429687', `dA`='49.": You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''49.' at line 1
+[22:46:40] [WARNING] mysql_connect: no password specified
+[22:48:50] [WARNING] mysql_connect: no password specified
+[22:51:38] [WARNING] mysql_connect: no password specified
+[22:54:50] [WARNING] mysql_connect: no password specified
+[22:57:24] [WARNING] mysql_connect: no password specified
+[23:00:08] [WARNING] mysql_connect: no password specified
+[23:00:11] [WARNING] mysql_connect: no password specified
+[23:03:06] [WARNING] mysql_connect: no password specified
+[23:07:33] [WARNING] mysql_connect: no password specified
+[23:09:45] [WARNING] mysql_connect: no password specified
+[23:12:41] [ERROR] error #1064 while executing query "INSERT INTO `contas`(`username`, `password`,`money`, `level`, `dX`, `dY`, `dZ`, `dA`, `dI`) VALUES ('Tester', '087542',": You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[23:12:41] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[23:14:52] [ERROR] error #1064 while executing query "INSERT INTO `contas`(`username`, `password`,`money`, `level`, `dX`, `dY`, `dZ`, `dA`, `dI`) VALUES ('Tester', '087542',": You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[23:14:52] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[23:15:22] [WARNING] mysql_connect: no password specified
+[23:15:46] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[13:34:01] [WARNING] mysql_connect: no password specified
+[13:35:23] [WARNING] mysql_connect: no password specified
+[13:36:10] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[14:00:16] [WARNING] mysql_connect: no password specified
+[14:26:47] [WARNING] mysql_connect: no password specified
+[14:29:05] [WARNING] mysql_connect: no password specified
+[14:34:09] [WARNING] mysql_connect: no password specified
+[14:36:00] [WARNING] mysql_connect: no password specified
+[14:42:36] [WARNING] mysql_connect: no password specified
+[15:22:28] [WARNING] mysql_connect: no password specified
+[15:56:58] [WARNING] mysql_connect: no password specified
+[16:22:47] [WARNING] mysql_connect: no password specified
+[16:41:28] [WARNING] mysql_connect: no password specified
+[16:43:35] [WARNING] mysql_connect: no password specified
+[16:48:17] [WARNING] mysql_connect: no password specified
+[16:52:48] [WARNING] mysql_connect: no password specified
+[16:59:07] [WARNING] mysql_connect: no password specified
+[18:06:11] [WARNING] mysql_connect: no password specified
+[18:37:20] [WARNING] mysql_connect: no password specified
+[18:37:20] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[18:43:28] [WARNING] mysql_connect: no password specified
+[18:45:09] [WARNING] mysql_connect: no password specified
+[18:45:09] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[18:48:57] [WARNING] mysql_connect: no password specified
+[18:50:12] [WARNING] mysql_connect: no password specified
+[18:50:12] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[18:53:31] [WARNING] mysql_connect: no password specified
+[18:55:01] [WARNING] mysql_connect: no password specified
+[18:55:01] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[18:56:32] [WARNING] mysql_connect: no password specified
+[19:00:50] [WARNING] mysql_connect: no password specified
+[19:01:47] [WARNING] mysql_connect: no password specified
+[19:04:37] [WARNING] mysql_connect: no password specified
+[19:12:48] [WARNING] mysql_connect: no password specified
+[19:18:20] [WARNING] mysql_connect: no password specified
+[19:41:15] [WARNING] mysql_connect: no password specified
+[19:44:25] [WARNING] mysql_connect: no password specified
+[19:48:12] [WARNING] mysql_connect: no password specified
+[19:54:55] [WARNING] mysql_connect: no password specified
+[19:08:50] [WARNING] mysql_connect: no password specified
+[19:08:54] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[19:08:58] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[19:09:02] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[19:09:06] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[19:09:22] [WARNING] mysql_connect: no password specified
+[19:09:26] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[19:09:30] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[19:09:34] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[19:09:38] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[19:10:32] [WARNING] mysql_connect: no password specified
+[19:10:36] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[19:10:40] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[19:10:44] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[19:10:48] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[19:11:48] [WARNING] mysql_connect: no password specified
+[19:14:18] [WARNING] mysql_connect: no password specified
+[19:15:36] [WARNING] mysql_connect: no password specified
+[19:38:48] [WARNING] mysql_connect: no password specified
+[19:40:23] [WARNING] mysql_connect: no password specified
+[19:42:10] [WARNING] mysql_connect: no password specified
+[19:44:59] [WARNING] mysql_connect: no password specified
+[19:48:23] [WARNING] mysql_connect: no password specified
+[19:48:27] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[19:48:31] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[19:48:35] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[19:48:40] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[19:49:13] [WARNING] mysql_connect: no password specified
+[20:00:34] [WARNING] mysql_connect: no password specified
+[20:02:51] [WARNING] mysql_connect: no password specified
+[20:06:14] [WARNING] mysql_connect: no password specified
+[20:08:41] [WARNING] mysql_connect: no password specified
+[20:22:03] [WARNING] mysql_connect: no password specified
+[20:23:58] [WARNING] mysql_connect: no password specified
+[20:28:26] [WARNING] mysql_connect: no password specified
+[20:33:13] [WARNING] mysql_connect: no password specified
+[20:35:19] [WARNING] mysql_connect: no password specified
+[20:37:46] [WARNING] mysql_connect: no password specified
+[20:39:31] [WARNING] mysql_connect: no password specified
+[20:42:17] [WARNING] mysql_connect: no password specified
+[20:51:29] [WARNING] mysql_connect: no password specified
+[20:58:45] [WARNING] mysql_connect: no password specified
+[21:01:59] [WARNING] mysql_connect: no password specified
+[21:04:44] [WARNING] mysql_connect: no password specified
+[21:05:47] [WARNING] mysql_connect: no password specified
+[21:05:47] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[21:09:28] [WARNING] mysql_connect: no password specified
+[21:11:14] [WARNING] mysql_connect: no password specified
+[21:11:14] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[21:26:05] [WARNING] mysql_connect: no password specified
+[21:27:52] [WARNING] mysql_connect: no password specified
+[21:27:52] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[21:29:24] [WARNING] mysql_connect: no password specified
+[21:30:36] [WARNING] mysql_connect: no password specified
+[21:32:19] [WARNING] mysql_connect: no password specified
+[21:34:11] [WARNING] mysql_connect: no password specified
+[21:34:11] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[21:34:37] [WARNING] mysql_connect: no password specified
+[21:36:18] [WARNING] mysql_connect: no password specified
+[21:38:31] [WARNING] mysql_connect: no password specified
+[21:42:40] [WARNING] mysql_connect: no password specified
+[21:44:19] [WARNING] mysql_connect: no password specified
+[21:45:36] [WARNING] mysql_connect: no password specified
+[21:47:02] [WARNING] mysql_connect: no password specified
+[21:49:37] [WARNING] mysql_connect: no password specified
+[21:50:26] [WARNING] mysql_connect: no password specified
+[21:51:18] [WARNING] mysql_connect: no password specified
+[21:52:33] [WARNING] mysql_connect: no password specified
+[21:52:49] [WARNING] mysql_connect: no password specified
+[21:54:42] [WARNING] mysql_connect: no password specified
+[21:55:39] [WARNING] mysql_connect: no password specified
+[21:56:36] [WARNING] mysql_connect: no password specified
+[21:57:29] [WARNING] mysql_connect: no password specified
+[21:59:08] [WARNING] mysql_connect: no password specified
+[22:01:16] [WARNING] mysql_connect: no password specified
+[22:01:16] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[22:04:46] [WARNING] mysql_connect: no password specified
+[22:05:55] [WARNING] mysql_connect: no password specified
+[22:07:40] [WARNING] mysql_connect: no password specified
+[22:08:56] [WARNING] mysql_connect: no password specified
+[22:11:47] [WARNING] mysql_connect: no password specified
+[22:11:47] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[22:12:44] [WARNING] mysql_connect: no password specified
+[22:13:17] [WARNING] mysql_connect: no password specified
+[22:13:17] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[22:14:07] [WARNING] mysql_connect: no password specified
+[22:14:07] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[22:14:58] [WARNING] mysql_connect: no password specified
+[22:22:14] [WARNING] mysql_connect: no password specified
+[22:25:22] [WARNING] mysql_connect: no password specified
+[22:55:30] [WARNING] mysql_connect: no password specified
+[22:57:32] [WARNING] mysql_connect: no password specified
+[22:58:27] [WARNING] mysql_connect: no password specified
+[22:58:27] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[23:01:28] [WARNING] mysql_connect: no password specified
+[23:02:16] [WARNING] mysql_connect: no password specified
+[23:02:51] [WARNING] mysql_connect: no password specified
+[23:07:19] [WARNING] mysql_connect: no password specified
+[23:07:40] [WARNING] mysql_connect: no password specified
+[23:07:59] [WARNING] mysql_connect: no password specified
+[23:08:24] [WARNING] mysql_connect: no password specified
+[23:09:25] [WARNING] mysql_connect: no password specified
+[18:58:15] [WARNING] mysql_connect: no password specified
+[18:59:24] [WARNING] mysql_connect: no password specified
+[19:00:27] [WARNING] mysql_connect: no password specified
+[19:01:56] [WARNING] mysql_connect: no password specified
+[19:36:44] [WARNING] mysql_connect: no password specified
+[19:36:47] [WARNING] mysql_connect: no password specified
+[19:36:57] [WARNING] mysql_connect: no password specified
+[20:10:38] [WARNING] mysql_connect: no password specified
+[20:11:03] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:11:03] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:11:03] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:11:03] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:11:42] [WARNING] mysql_connect: no password specified
+[20:11:46] [WARNING] mysql_connect: no password specified
+[20:12:57] [WARNING] mysql_connect: no password specified
+[20:13:01] [WARNING] mysql_connect: no password specified
+[20:13:14] [WARNING] mysql_connect: no password specified
+[20:13:16] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'ueueue' (0)'
+[20:13:19] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'ueueue' (0)'
+[20:13:21] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'ueueue' (0)'
+[20:13:23] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'ueueue' (0)'
+[20:14:09] [WARNING] mysql_connect: no password specified
+[20:14:11] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'ueueue' (0)'
+[20:14:24] [WARNING] mysql_connect: no password specified
+[20:16:42] [WARNING] mysql_connect: no password specified
+[20:16:46] [WARNING] mysql_connect: no password specified
+[20:16:56] [WARNING] mysql_connect: no password specified
+[20:16:56] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'sla'@'localhost' (using password: NO)'
+[20:16:56] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'sla'@'localhost' (using password: NO)'
+[20:16:56] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'sla'@'localhost' (using password: NO)'
+[20:16:56] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'sla'@'localhost' (using password: NO)'
+[20:17:06] [WARNING] mysql_connect: no password specified
+[20:17:16] [WARNING] mysql_connect: no password specified
+[20:17:16] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'd''
+[20:17:16] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'd''
+[20:17:16] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'd''
+[20:17:16] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'd''
+[20:18:10] [WARNING] mysql_connect: no password specified
+[20:19:05] [WARNING] mysql_connect: no password specified
+[20:19:13] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:19:13] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:19:13] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:19:13] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:19:25] [WARNING] mysql_connect: no password specified
+[20:28:23] [WARNING] mysql_connect: no password specified
+[20:28:52] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:28:52] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:28:52] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:28:52] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:29:40] [ERROR] cache_get_row_count: no active cache
+[20:29:53] [ERROR] cache_get_value_name: no active cache
+[20:30:40] [WARNING] mysql_connect: no password specified
+[20:32:46] [ERROR] error #1364 while executing query "INSERT INTO `contas`(`username`, `password`,`money`, `level`, `dX`, `dY`, `dZ`, `dA`, `dI`, `admin`) VALUES ('Small', '087542', '0', '0', '0.0', '0.0', '0.0', '0.0', '0', '0')": Field 'genre' doesn't have a default value
+[20:32:46] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[20:35:50] [WARNING] mysql_connect: no password specified
+[20:36:22] [ERROR] error #1364 while executing query "INSERT INTO `contas`(`username`, `password`,`money`, `level`, `dX`, `dY`, `dZ`, `dA`, `dI`, `admin`) VALUES ('Small2', '087542', '0', '0', '0.000000', '0.000000', '0.000000', '0.000000', '1088421888', '0')": Field 'genre' doesn't have a default value
+[20:36:22] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[20:37:30] [ERROR] error #1364 while executing query "INSERT INTO `contas`(`username`, `password`,`money`, `level`, `dX`, `dY`, `dZ`, `dA`, `dI`, `admin`) VALUES ('Small2', '087542', '0', '0', '0.000000', '0.000000', '0.000000', '0.000000', '1088421888', '0')": Field 'genre' doesn't have a default value
+[20:37:30] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[20:37:36] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[20:37:36] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[20:37:36] [ERROR] cache_get_value_name_float: invalid row index '0' (number of rows: '0')
+[20:37:36] [ERROR] cache_get_value_name_float: invalid row index '0' (number of rows: '0')
+[20:37:36] [ERROR] cache_get_value_name_float: invalid row index '0' (number of rows: '0')
+[20:37:36] [ERROR] cache_get_value_name_float: invalid row index '0' (number of rows: '0')
+[20:37:36] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[20:37:36] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[20:37:36] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[20:39:07] [WARNING] mysql_connect: no password specified
+[20:39:27] [ERROR] error #1364 while executing query "INSERT INTO `contas`(`username`, `password`,`money`, `level`, `dX`, `dY`, `dZ`, `dA`, `dI`, `admin`) VALUES ('Small2', '087542', '0', '0', '0.000000', '0.000000', '0.000000', '0.000000', '7', '0')": Field 'genre' doesn't have a default value
+[20:39:27] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[20:39:32] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[20:39:32] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[20:39:32] [ERROR] cache_get_value_name_float: invalid row index '0' (number of rows: '0')
+[20:39:32] [ERROR] cache_get_value_name_float: invalid row index '0' (number of rows: '0')
+[20:39:32] [ERROR] cache_get_value_name_float: invalid row index '0' (number of rows: '0')
+[20:39:32] [ERROR] cache_get_value_name_float: invalid row index '0' (number of rows: '0')
+[20:39:32] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[20:39:32] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[20:39:32] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[20:42:12] [WARNING] mysql_connect: no password specified
+[20:43:24] [WARNING] mysql_connect: no password specified
+[20:44:07] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:44:07] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:44:07] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:44:07] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[20:44:26] [WARNING] mysql_connect: no password specified
+[20:45:20] [ERROR] error #1364 while executing query "INSERT INTO `contas`(`username`, `password`,`money`, `level`, `dX`, `dY`, `dZ`, `dA`, `dI`, `admin`) VALUES ('Small', '087542', '0', '0', '0.000000', '0.000000', '0.000000', '0.000000', '0', '0')": Field 'genre' doesn't have a default value
+[20:45:20] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[20:47:03] [WARNING] mysql_connect: no password specified
+[20:47:26] [ERROR] error #1364 while executing query "INSERT INTO `contas`(`username`, `password`,`money`, `level`, `dX`, `dY`, `dZ`, `dA`, `dI`, `admin`) VALUES ('Small', '087542', '0', '0', '0.0', '0.0', '0.0', '0.0', '0', '0')": Field 'genre' doesn't have a default value
+[20:47:26] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:24:26] [WARNING] mysql_connect: no password specified
+[19:26:39] [ERROR] error #1364 while executing query "INSERT INTO `contas`(`username`, `password`,`money`, `level`, `dX`, `dY`, `dZ`, `dA`, `dI`, `admin`) VALUES ('Tester5', '087542', '0', '0', '0.0', '0.0', '0.0', '0.0', '0', '0')": Field 'genre' doesn't have a default value
+[19:26:39] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:26:42] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[19:26:42] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[19:26:42] [ERROR] cache_get_value_name_float: invalid row index '0' (number of rows: '0')
+[19:26:42] [ERROR] cache_get_value_name_float: invalid row index '0' (number of rows: '0')
+[19:26:42] [ERROR] cache_get_value_name_float: invalid row index '0' (number of rows: '0')
+[19:26:42] [ERROR] cache_get_value_name_float: invalid row index '0' (number of rows: '0')
+[19:26:42] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[19:26:42] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[19:26:42] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0')
+[19:31:31] [WARNING] mysql_connect: no password specified
+[19:32:01] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:33:48] [WARNING] mysql_connect: no password specified
+[19:34:12] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:36:01] [WARNING] mysql_connect: no password specified
+[19:36:23] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:37:20] [WARNING] mysql_connect: no password specified
+[19:37:45] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:39:19] [WARNING] mysql_connect: no password specified
+[19:40:14] [WARNING] mysql_connect: no password specified
+[19:40:33] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:43:13] [WARNING] mysql_connect: no password specified
+[19:44:18] [WARNING] mysql_connect: no password specified
+[19:45:47] [WARNING] mysql_connect: no password specified
+[19:45:47] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[19:46:55] [WARNING] mysql_connect: no password specified
+[19:47:44] [WARNING] mysql_connect: no password specified
+[19:47:44] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[19:50:45] [WARNING] mysql_connect: no password specified
+[19:51:31] [WARNING] mysql_connect: no password specified
+[19:51:31] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[19:51:54] [WARNING] mysql_connect: no password specified
+[19:52:40] [WARNING] mysql_connect: no password specified
+[19:52:40] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[18:34:17] [WARNING] mysql_connect: no password specified
+[18:34:53] [WARNING] mysql_connect: no password specified
+[18:38:04] [WARNING] mysql_connect: no password specified
+[18:38:04] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[18:42:39] [WARNING] mysql_connect: no password specified
+[18:42:59] [WARNING] mysql_connect: no password specified
+[18:42:59] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[18:43:56] [WARNING] mysql_connect: no password specified
+[18:44:40] [WARNING] mysql_connect: no password specified
+[18:44:40] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[18:45:04] [WARNING] mysql_connect: no password specified
+[18:45:04] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[18:54:56] [WARNING] mysql_connect: no password specified
+[18:55:16] [WARNING] mysql_connect: no password specified
+[18:55:16] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[18:56:19] [WARNING] mysql_connect: no password specified
+[18:56:46] [WARNING] mysql_connect: no password specified
+[18:56:46] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[18:57:45] [WARNING] mysql_connect: no password specified
+[18:58:00] [WARNING] mysql_connect: no password specified
+[18:58:00] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[19:10:51] [WARNING] mysql_connect: no password specified
+[19:14:10] [WARNING] mysql_connect: no password specified
+[19:18:20] [WARNING] mysql_connect: no password specified
+[19:30:40] [WARNING] mysql_connect: no password specified
+[19:35:45] [WARNING] mysql_connect: no password specified
+[19:35:45] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[19:37:22] [WARNING] mysql_connect: no password specified
+[19:37:22] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[20:05:24] [WARNING] mysql_connect: no password specified
+[20:09:34] [WARNING] mysql_connect: no password specified
+[20:10:50] [WARNING] mysql_connect: no password specified
+[20:26:26] [WARNING] mysql_connect: no password specified
+[20:26:42] [WARNING] mysql_connect: no password specified
+[20:26:42] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[20:57:43] [WARNING] mysql_connect: no password specified
+[20:57:43] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[20:57:47] [WARNING] mysql_connect: no password specified
+[20:57:47] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[20:58:50] [WARNING] mysql_connect: no password specified
+[21:01:25] [WARNING] mysql_connect: no password specified
+[21:10:03] [WARNING] mysql_connect: no password specified
+[21:43:17] [WARNING] mysql_connect: no password specified
+[21:49:58] [WARNING] mysql_connect: no password specified
+[22:10:18] [WARNING] mysql_connect: no password specified
+[22:10:18] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'samp''
+[22:10:18] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'samp''
+[22:10:18] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'samp''
+[22:10:18] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'samp''
+[22:11:13] [WARNING] mysql_connect: no password specified
+[22:24:42] [WARNING] mysql_connect: no password specified
+[22:57:52] [WARNING] mysql_connect: no password specified
+[19:31:45] [WARNING] mysql_connect: no password specified
+[19:31:46] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'servidor''
+[19:31:46] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'servidor''
+[19:31:46] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'servidor''
+[19:31:46] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'servidor''
+[19:32:36] [WARNING] mysql_connect: no password specified
+[19:33:06] [WARNING] mysql_connect: no password specified
+[19:33:35] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:33:43] [ERROR] cache_get_value_name: invalid row index '0' (number of rows: '0')
+[19:34:58] [WARNING] mysql_connect: no password specified
+[19:35:45] [WARNING] mysql_connect: no password specified
+[19:57:36] [WARNING] mysql_connect: no password specified
+[19:57:36] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[20:13:34] [WARNING] mysql_connect: no password specified
+[20:13:34] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[09:29:27] [WARNING] mysql_connect: no password specified
+[09:31:56] [WARNING] mysql_connect: no password specified
+[10:01:25] [WARNING] mysql_connect: no password specified
+[10:01:25] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[10:03:30] [WARNING] mysql_connect: no password specified
+[10:03:30] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[10:24:07] [WARNING] mysql_connect: no password specified
+[10:24:07] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[10:41:29] [WARNING] mysql_connect: no password specified
+[10:41:29] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[13:17:14] [WARNING] mysql_connect: no password specified
+[13:17:14] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[13:23:50] [WARNING] mysql_connect: no password specified
+[13:23:50] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[14:20:30] [WARNING] mysql_connect: no password specified
+[14:20:30] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[14:30:58] [WARNING] mysql_connect: no password specified
+[14:30:58] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[14:42:44] [WARNING] mysql_connect: no password specified
+[14:42:44] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[14:51:43] [WARNING] mysql_connect: no password specified
+[14:51:43] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[15:04:04] [WARNING] mysql_connect: no password specified
+[15:04:04] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[15:17:33] [WARNING] mysql_connect: no password specified
+[15:17:33] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'

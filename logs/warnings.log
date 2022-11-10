@@ -1,0 +1,25 @@
+[09:31:56] [plugins/mysql] mysql_connect: no password specified
+[10:01:25] [plugins/mysql] mysql_connect: no password specified
+[10:01:25] [plugins/mysql] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[10:03:30] [plugins/mysql] mysql_connect: no password specified
+[10:03:30] [plugins/mysql] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[10:24:07] [plugins/mysql] mysql_connect: no password specified
+[10:24:07] [plugins/mysql] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[10:41:29] [plugins/mysql] mysql_connect: no password specified
+[10:41:29] [plugins/mysql] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[13:17:14] [plugins/mysql] mysql_connect: no password specified
+[13:17:14] [plugins/mysql] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[13:23:50] [plugins/mysql] mysql_connect: no password specified
+[13:23:50] [plugins/mysql] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[14:20:30] [plugins/mysql] mysql_connect: no password specified
+[14:20:30] [plugins/mysql] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[14:30:58] [plugins/mysql] mysql_connect: no password specified
+[14:30:58] [plugins/mysql] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[14:42:44] [plugins/mysql] mysql_connect: no password specified
+[14:42:44] [plugins/mysql] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[14:51:43] [plugins/mysql] mysql_connect: no password specified
+[14:51:43] [plugins/mysql] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[15:04:04] [plugins/mysql] mysql_connect: no password specified
+[15:04:04] [plugins/mysql] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'
+[15:17:33] [plugins/mysql] mysql_connect: no password specified
+[15:17:33] [plugins/mysql] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'samp'

@@ -1,0 +1,10 @@
+../modules/player/comandos/admin/geral.pwn(233) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+../modules/player/comandos/admin/geral.pwn(234) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+../modules/player/comandos/admin/geral.pwn(238) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+../modules/player/comandos/admin/geral.pwn(239) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+../modules/player/comandos/admin/geral.pwn(284) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+../modules/player/comandos/admin/geral.pwn(290) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+../modules/player/comandos/admin/geral.pwn(291) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+../modules/player/comandos/admin/geral.pwn(314) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+

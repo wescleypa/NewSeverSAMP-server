@@ -1,0 +1,7 @@
+C:\Users\Wescley Andrade\Desktop\ServerSAMP\gamemodes\server.pwn(17) : ïðåäóïðåæäåíèå 206: ëèøíèé êîä: ïîñòîÿííîå âûðàæåíèå èñòèííî
+C:\Users\Wescley Andrade\Desktop\ServerSAMP\gamemodes\server.pwn(1) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "criarveiculo"
+C:\Users\Wescley Andrade\Desktop\ServerSAMP\gamemodes\server.pwn(27) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "pegaradmin"
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Ïðåäóïðåæäåíèé:1.

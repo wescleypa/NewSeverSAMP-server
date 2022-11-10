@@ -1,0 +1,137 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Compile",
+      "type": "shell",
+      "command": "${workspaceRoot}/pawno/pawncc.exe",
+      "args": [
+        "${file}",
+        "--%",
+        "-Dgamemodes",
+        "-;+",
+        "-(+",
+        "-Z+",
+        "-O1"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "isBackground": false,
+      "presentation": {
+        "reveal": "silent",
+        "panel": "dedicated"
+      },
+      "problemMatcher": "$pawncc"
+    },
+    {
+      "label": "Compile-Debug",
+      "type": "shell",
+      "command": "${workspaceRoot}/pawno/pawncc.exe",
+      "args": [
+        "${file}",
+        "--%",
+        "-Dgamemodes",
+        "-;+",
+        "-(+",
+        "-d3",
+        "-Z+",
+        "-O1"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "isBackground": false,
+      "presentation": {
+        "reveal": "silent",
+        "panel": "dedicated"
+      },
+      "problemMatcher": "$pawncc"
+    },
+    {
+      "label": "ASM",
+      "type": "shell",
+      "command": "${workspaceRoot}/pawno/pawncc.exe",
+      "args": [
+        "${file}",
+        "--%",
+        "-Dgamemodes",
+        "-;+",
+        "-(+",
+        "-a"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "isBackground": false,
+      "presentation": {
+        "reveal": "silent",
+        "panel": "dedicated"
+      },
+      "problemMatcher": "$pawncc"
+    },
+    {
+      "label": "Reference",
+      "type": "shell",
+      "command": "${workspaceRoot}/pawno/pawncc.exe",
+      "args": [
+        "${file}",
+        "--%",
+        "-Dgamemodes",
+        "-;+",
+        "-(+",
+        "-r"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "isBackground": false,
+      "presentation": {
+        "reveal": "silent",
+        "panel": "dedicated"
+      },
+      "problemMatcher": "$pawncc"
+    },
+    {
+      "label": "Debug-Reference",
+      "type": "shell",
+      "command": "${workspaceRoot}/pawno/pawncc.exe",
+      "args": [
+        "${file}",
+        "--%",
+        "-Dgamemodes",
+        "-;+",
+        "-(+",
+        "-d3",
+        "-r",
+        "-Z+"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "isBackground": false,
+      "presentation": {
+        "reveal": "silent",
+        "panel": "dedicated"
+      },
+      "problemMatcher": "$pawncc"
+    },
+    {
+      "type": "vsls",
+      "taskUid": "shell:Compile",
+      "problemMatcher": [
+        "$vsls"
+      ],
+      "label": "Shared: Compile",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}
